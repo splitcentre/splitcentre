@@ -18,6 +18,8 @@ Computer Video Game Gamer™ // Anime Enthusiast // Backend Engineer Soon™.<br
 
 No Certificate Yet...
 
+#### TOO LAZY TO COMMIT 
+
 ### Tech Stack
 
 <p align="center">
