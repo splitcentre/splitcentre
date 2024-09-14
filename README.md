@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 This is **splitcentre** personal GitHub page.<br>
 
@@ -18,7 +18,7 @@ Computer Video Game Gamer™ // Anime Enthusiast // Backend Engineer Soon™.<br
 
 No Certificate Yet...
 
-#### TOO LAZY TO COMMIT 
+## TOO LAZY TO COMMIT 
 
 ### Tech Stack
 
