@@ -1,6 +1,4 @@
-# Hi there 👋
-
-This is **splitcentre** personal GitHub page.<br>
+# This is **splitcentre** personal GitHub page.<br>
 
 My real name is **Raihan Alfian Pratama**.
 
@@ -18,9 +16,9 @@ Computer Video Game Gamer™ // Anime Enthusiast // Backend Engineer Soon™.<br
 
 No Certificate Yet...
 
-## TOO LAZY TO COMMIT 
+## 🤡TOO LAZY TO COMMIT🤡
 
-### Tech Stack
+### 🖥️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -38,12 +36,12 @@ No Certificate Yet...
   <img src="https://img.shields.io/badge/REST%20APIs-00A8E1?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 </p>
 
-### My Stats
+### 📈 My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=splitcentre&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splitcentre&layout=compact&theme=radical)
 
-### You can Follow me on
+### 🌐 You can Follow me on
 [Instagram](https://www.instagram.com/raihanap1856/)  
 [LinkedIn](https://www.linkedin.com/in/raihan-pr4tam4/)
